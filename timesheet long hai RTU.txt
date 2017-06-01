@@ -3,3 +3,4 @@
 28-may-2017	start working, review title block project
 30-may-2017	check and collect data for PC-scada and client server DPM project
 30-may-2017	creat template of project
+31-may-2017	creat system interface, system architecture.
