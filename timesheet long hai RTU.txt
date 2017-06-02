@@ -5,3 +5,4 @@
 30-may-2017	creat template of project
 31-may-2017	creat system interface, system architecture.
 1-jun-2017	creat IO allotment table
+2-jun-2017	creat IO allotment table
