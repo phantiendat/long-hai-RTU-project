@@ -6,3 +6,5 @@
 31-may-2017	creat system interface, system architecture.
 1-jun-2017	creat IO allotment table
 2-jun-2017	creat IO allotment table
+5-jun-2017	creat loop drawing PZT-16001/16003/16004
+6-jun-2017	creat loop drawing PZT-75201
