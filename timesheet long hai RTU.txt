@@ -8,3 +8,4 @@
 2-jun-2017	creat IO allotment table
 5-jun-2017	creat loop drawing PZT-16001/16003/16004
 6-jun-2017	creat loop drawing PZT-75201
+7-jun-2017	creat loop drawing XZV,XY-16001A
