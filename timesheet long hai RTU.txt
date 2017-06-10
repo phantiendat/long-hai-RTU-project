@@ -11,4 +11,4 @@
 7-jun-2017	creat loop drawing XZV,XY-16001A
 8-jun-2017	creat loop drawing XY-16001C, XY status solenoid A C
 9-jun-2017	creat fire and gas loop diagram, PM-75250 run and command
-10-jun-2017	creat PSL-75207 loop diagram
+10-jun-2017	creat PSL-75207 loop diagram, DONE 90%
