@@ -1,23 +1,25 @@
-27-apr-2017	creat long hai RTU overview and cabinet overview
-27-may-2017	review meeting and allocation duty for the project
-28-may-2017	start working, review title block project
-30-may-2017	check and collect data for PC-scada and client server DPM project
-30-may-2017	creat template of project
-31-may-2017	creat system interface, system architecture.
-1-jun-2017	creat IO allotment table
-2-jun-2017	creat IO allotment table
-5-jun-2017	creat loop drawing PZT-16001/16003/16004
-6-jun-2017	creat loop drawing PZT-75201
-7-jun-2017	creat loop drawing XZV,XY-16001A
-8-jun-2017	creat loop drawing XY-16001C, XY status solenoid A C
-9-jun-2017	creat fire and gas loop diagram, PM-75250 run and command
-10-jun-2017	creat PSL-75207 loop diagram, DONE 90%
-15-JUN-2017	creat power distribution diagram
-16-jun-2017	creat power distribution diagram
-17-jun-2017	creat marshalling cabinet termination
+27-apr-2017	creat long hai RTU overview and cabinet overview,1/2 day
+27-may-2017	review meeting and allocation duty for the project,1/2 day
+28-may-2017	start working review title block project,1/2 day
+30-may-2017	check and collect data for PC-scada and client server DPM project,1 day
+30-may-2017	creat template of project,1/2 day
+31-may-2017	creat system interface system architecture,1/2 day
+1-jun-2017	creat IO allotment table,1/2 day
+2-jun-2017	creat IO allotment table,1/2 day
+5-jun-2017	creat loop drawing PZT-16001/16003/16004,1/2 day
+6-jun-2017	creat loop drawing PZT-75201,1/2 day
+7-jun-2017	creat loop drawing XZV XY-16001A,1/2 day
+8-jun-2017	creat loop drawing XY-16001C XY status solenoid A C,1/2 day
+9-jun-2017	creat fire and gas loop diagram, PM-75250 run and command,1/2 day
+10-jun-2017	creat PSL-75207 loop diagram, DONE 90%,1/2 day
+15-JUN-2017	creat power distribution diagram,1/2 day
+16-jun-2017	creat power distribution diagram,1/2 day
+17-jun-2017	creat marshalling cabinet termination,1/2 day
 20-jun-2017	summit doc to a Kiet
 21-jun-2017	kick off meeting with NCSP
 22-jun-2017	configure control buider, rectify allotment and drawings
 23-jun-2017	programming 20%
 24-jun-2017	programming 30%
+26-jun-2017	programming 35%,1/2 day
+27-jun-2017	programming 40%
 
