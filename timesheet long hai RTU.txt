@@ -22,4 +22,10 @@
 24-jun-2017	programming 30%
 26-jun-2017	programming 35%,1/2 day
 27-jun-2017	programming 40%
+28-jun-2017	programming 50%
+29-jun-2017	programming 55%,1/2 day
+30-jun-2017	programming 60%
+3-jul-2017	programming 65%
+
+
 
