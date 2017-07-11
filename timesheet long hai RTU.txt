@@ -33,6 +33,9 @@
 6-jul-2017	programming 100%, send to Vu-NCSP for comment, revise transmittal doc for re-modify as NCSP comments
 7-jul-2017	Mofify drawings and io allotment for NCSP comment
 8-jul-2017	Mofify drawings, wrapping up and send to HTKIET,1/2 day
+10-jul-2017	test program with HMI
+11-jul-2017	test program done,1/2 day
+
 
 
 
