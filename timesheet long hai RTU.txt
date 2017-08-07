@@ -36,6 +36,7 @@
 10-jul-2017	test program with HMI
 11-jul-2017	test program done,1/2 day
 3-aug-2017	summit drawing for NCSP comment,1/2 day
+7-aug-2017	check and rectify drawings, modify program hmi sync time function
 
 
 
