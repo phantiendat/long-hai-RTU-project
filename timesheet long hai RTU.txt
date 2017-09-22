@@ -38,6 +38,7 @@
 3-aug-2017	summit drawing for NCSP comment,1/2 day
 7-aug-2017	check and rectify drawings, modify program hmi sync time function
 18-sep-2017	Check and clear punchlist Long hai cabinet
+22-sep-2017	Test comm with training kit at NCSP
 
 
 
