@@ -1,8 +1,8 @@
 27-apr-2017	creat long hai RTU overview and cabinet overview,1/2 day
 27-may-2017	review meeting and allocation duty for the project,1/2 day
 28-may-2017	start working review title block project,1/2 day
-30-may-2017	check and collect data for PC-scada and client server DPM project,1 day
-30-may-2017	creat template of project,1/2 day
+30-may-2017	check and collect data for PC-scada and client server DPM project
+30-may-2017	creat template of project,1/4 day
 31-may-2017	creat system interface system architecture,1/2 day
 1-jun-2017	creat IO allotment table,1/2 day
 2-jun-2017	creat IO allotment table,1/2 day
@@ -39,6 +39,7 @@
 7-aug-2017	check and rectify drawings, modify program hmi sync time function
 18-sep-2017	Check and clear punchlist Long hai cabinet
 22-sep-2017	Test comm with training kit at NCSP
+25-sep-2017	Check comm with training kit at NCSP
 
 
 
