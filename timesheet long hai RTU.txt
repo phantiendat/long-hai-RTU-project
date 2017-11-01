@@ -40,6 +40,7 @@
 18-sep-2017	Check and clear punchlist Long hai cabinet
 22-sep-2017	Test comm with training kit at NCSP
 25-sep-2017	Check comm with training kit at NCSP
+30-oct-2017	check and clear punch at ncsp
 
 
 
